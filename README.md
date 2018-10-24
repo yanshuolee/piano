@@ -1,2 +1,2 @@
-# piano
+# Piano
 Arduino application
